@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" G", "GI", "B "],
+  "key": {
+    "G": {"item": "minecraft:glass_pane"},
+    "I": {"item": "minecraft:iron_nugget"},
+    "B": {"item": "minecraft:bucket"}
+  },
+  "result": {"id": "micromayhem:syringe", "count": 1}
+}
