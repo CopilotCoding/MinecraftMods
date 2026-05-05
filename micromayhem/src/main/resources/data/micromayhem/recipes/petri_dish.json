@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["GPG", "P P", "GGG"],
-  "key": {
-    "G": {"item": "minecraft:glass_pane"},
-    "P": {"item": "minecraft:paper"}
-  },
-  "result": {"id": "micromayhem:petri_dish", "count": 2}
-}
