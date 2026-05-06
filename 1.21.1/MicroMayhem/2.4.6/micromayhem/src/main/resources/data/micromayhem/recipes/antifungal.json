@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" S ", "SGS", " S "],
+  "key": {
+    "S": {"item": "minecraft:spider_eye"},
+    "G": {"item": "minecraft:sugar"}
+  },
+  "result": {"id": "micromayhem:antifungal", "count": 2}
+}
