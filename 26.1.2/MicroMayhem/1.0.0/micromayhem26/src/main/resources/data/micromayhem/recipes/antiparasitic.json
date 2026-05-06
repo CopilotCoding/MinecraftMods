@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["MSM", "SMS", "MSM"],
+  "key": {
+    "M": {"item": "minecraft:magma_cream"},
+    "S": {"item": "minecraft:sugar"}
+  },
+  "result": {"id": "micromayhem:antiparasitic", "count": 2}
+}

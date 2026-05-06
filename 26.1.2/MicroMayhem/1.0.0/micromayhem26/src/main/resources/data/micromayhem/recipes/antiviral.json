@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BSB", "SBS", "BSB"],
+  "key": {
+    "B": {"item": "minecraft:blaze_powder"},
+    "S": {"item": "minecraft:sugar"}
+  },
+  "result": {"id": "micromayhem:antiviral", "count": 2}
+}

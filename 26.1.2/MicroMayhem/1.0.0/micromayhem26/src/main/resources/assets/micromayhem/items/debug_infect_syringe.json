@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "micromayhem:item/debug_infect_syringe",
+    "tints": []
+  },
+  "properties": {
+    "foil": true
+  }
+}
