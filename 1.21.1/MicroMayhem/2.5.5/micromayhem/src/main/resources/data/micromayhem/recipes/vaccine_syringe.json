@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "micromayhem:syringe"},
+    {"item": "minecraft:fermented_spider_eye"}
+  ],
+  "result": {"id": "micromayhem:vaccine_syringe", "count": 1}
+}
