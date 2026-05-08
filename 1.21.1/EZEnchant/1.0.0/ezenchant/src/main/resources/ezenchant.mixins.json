@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.grace.ezenchant.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EnchantmentMenuAccessor"
+  ],
+  "client": [
+    "EnchantmentScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
