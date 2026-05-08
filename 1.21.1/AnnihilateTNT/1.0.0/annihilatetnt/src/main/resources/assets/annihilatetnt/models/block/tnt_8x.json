@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down":   "annihilatetnt:block/tnt_8x_top",
+    "up":     "annihilatetnt:block/tnt_8x_top",
+    "north":  "annihilatetnt:block/tnt_8x_side",
+    "south":  "annihilatetnt:block/tnt_8x_side",
+    "west":   "annihilatetnt:block/tnt_8x_side",
+    "east":   "annihilatetnt:block/tnt_8x_side",
+    "particle": "annihilatetnt:block/tnt_8x_side"
+  }
+}

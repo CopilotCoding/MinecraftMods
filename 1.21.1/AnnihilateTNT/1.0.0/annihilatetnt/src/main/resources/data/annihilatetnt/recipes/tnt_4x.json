@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "annihilatetnt:tnt_2x"
+    }
+  },
+  "result": {
+    "id": "annihilatetnt:tnt_4x",
+    "count": 1
+  }
+}
